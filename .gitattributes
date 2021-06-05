@@ -3,3 +3,4 @@ CLF_of_ECG_signals/Result_Submission/Model/RF_ECG_0424.pkl filter=lfs diff=lfs m
 STSC_2019_12_20/Step_0_preparation/original_data.csv filter=lfs diff=lfs merge=lfs -text
 STSC_2019_12_20/Step_1_data_preprocess/equalize_data.csv filter=lfs diff=lfs merge=lfs -text
 STSC_2019_12_20/Step_1_data_preprocess/equalized_data.csv filter=lfs diff=lfs merge=lfs -text
+UTC&MTC/RUL-Net-master/normalized_train_data.csv filter=lfs diff=lfs merge=lfs -text
