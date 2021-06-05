@@ -1,0 +1,1 @@
+文件D_R_E_S.py的功能是在数据文件“STSC_2019_12_20\Step_1_data_preprocess\data_normalized_tf_16.csv”上应用并实现决策树（Decision Tree）、随机森林（Random Forest）、极端随机树（Element Extreme random tree）和支持向量机（support vector machine）

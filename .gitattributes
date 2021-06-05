@@ -1,2 +1,4 @@
 Forecast_of_loan_default/Feature_Engineering/*.csv filter=lfs diff=lfs merge=lfs -text
 CLF_of_ECG_signals/Result_Submission/Model/RF_ECG_0424.pkl filter=lfs diff=lfs merge=lfs -text
+STSC_2019_12_20/Step_0_preparation/original_data.csv filter=lfs diff=lfs merge=lfs -text
+STSC_2019_12_20/Step_1_data_preprocess/equalize_data.csv filter=lfs diff=lfs merge=lfs -text
