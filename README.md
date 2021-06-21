@@ -6,7 +6,7 @@
 
 ### 贷款违约预测：[Forecast_of_Loan_Default.ipynb](https://github.com/ChuanchaoXu/Open_Sourse_Project/blob/master/Forecast_of_loan_default/Forecast_of_Loan_Default.ipynb)
 
-### PHM_2009_Challenge:[PHM_2009.ipynb](https://github.com/ChuanchaoXu/Open_Sourse_Project/blob/master/PHM_09/PHM_2009.ipynb)
+### 齿轮箱故障诊断:[PHM_2009.ipynb](https://github.com/ChuanchaoXu/Open_Sourse_Project/blob/master/PHM_09/PHM_2009.ipynb)
 
 ### 工业设备“亚健康”识别：[工业设备”亚健康“识别.ipynb](https://github.com/ChuanchaoXu/Open_Sourse_Project/blob/master/%E5%B7%A5%E4%B8%9A%E8%AE%BE%E5%A4%87%E2%80%9D%E4%BA%9A%E5%81%A5%E5%BA%B7%E2%80%9C%E8%AF%86%E5%88%AB/%E5%B7%A5%E4%B8%9A%E8%AE%BE%E5%A4%87%E2%80%9D%E4%BA%9A%E5%81%A5%E5%BA%B7%E2%80%9C%E8%AF%86%E5%88%AB.ipynb)
 
