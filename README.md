@@ -18,6 +18,8 @@
 
 ### 涡扇发动机剩余寿命预测：[XCC_File](https://github.com/ChuanchaoXu/Open_Sourse_Project/tree/master/UTC%26MTC/XCC_File), [UTC_MTC.ipynb](https://github.com/ChuanchaoXu/Open_Sourse_Project/blob/master/UTC%26MTC/XCC_File/UTC_MTC.ipynb)
 
+### 失速预警( 序列异常检测 )：[Compresser_Stall_Problem_2021-for_Github.ipynb](https://github.com/ChuanchaoXu/Open_Sourse_Project/blob/master/Compresser%20Stall%20Problem/series_anormaly_detection/Compresser_Stall_Problem_2021-for_Github.ipynb)
+
 ### 其他学习与实践：[数字信号处理](https://github.com/ChuanchaoXu/Open_Sourse_Project/tree/master/DSP), [网络爬虫](https://github.com/ChuanchaoXu/Open_Sourse_Project/tree/master/Crawler), [异常检测](https://github.com/ChuanchaoXu/Open_Sourse_Project/tree/master/Anomaly_Detection), [量化交易](https://github.com/ChuanchaoXu/Open_Sourse_Project/blob/master/Quant/Quant_XCC.ipynb)
 
 
